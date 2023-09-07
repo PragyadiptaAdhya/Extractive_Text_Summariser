@@ -5,7 +5,7 @@ An extractive text summarizer is a tool designed to condense lengthy documents o
 The PageRank algorithm, developed by Larry Page and Sergey Brin, co-founders of Google, is a fundamental component of search engine technology. It revolutionized the way search engines rank web pages by assessing their importance based on a network of hyperlinks. PageRank works on the principle that a web page's significance can be determined by the number and quality of links pointing to it. In essence, it views the web as a vast interconnected graph, where each web page is a node, and hyperlinks represent edges. Pages with more incoming links from reputable sources are considered more authoritative and, therefore, rank higher in search results. PageRank has played a pivotal role in improving the relevance and quality of search engine results, making it an integral part of the modern internet landscape. While it's no longer the sole factor in ranking, it laid the foundation for sophisticated algorithms used by search engines today.
 
 <p align="center">
-<img src="folder_for_data/page rank.png" alt="seg" style="width:1000px; height:400px" title="Page Rank Algorithm"/>
+<img src="folder_for_data/page rank.png" alt="seg" style="width:100px; height:100px" title="Page Rank Algorithm"/>
 
 
 <p>
